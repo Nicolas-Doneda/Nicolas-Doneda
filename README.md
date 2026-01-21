@@ -1,7 +1,7 @@
 ## 👋 Olá! Eu sou Nicolas Doneda
 
 💻 Desenvolvedor em formação, focado em **tecnologia, lógica e construção de projetos reais**.  
-🎓 Estudante de **Desenvolvimento de Sistemas** e **Engenharia de Software (EAD)**.  
+🎓 Estudante de **Desenvolvimento de Sistemas** e **Engenharia de Software **.  
 🚀 Interesse em backend, frontend e aplicações bem estruturadas.
 
 ---
@@ -29,9 +29,9 @@
 ### 📊 Estatísticas do GitHub
 <div align="center">
   <img height="160em"
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    src="https://github-readme-stats.vercel.app/api?username=Nicolas-Doneda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&langs_count=7&theme=tokyonight"/>
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Doneda&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ---
@@ -39,7 +39,7 @@
 ### 🔥 Sequência de commits
 <div align="center">
   <img
-    src="https://streak-stats.demolab.com?user=SEU_USUARIO_GITHUB&theme=tokyonight&hide_border=true"/>
+    src="https://streak-stats.demolab.com?user=Nicolas-Doneda&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
@@ -52,4 +52,4 @@
 ---
 
 ### 📫 Contato
-- GitHub: https://github.com/SEU_USUARIO_GITHUB
+- GitHub: https://github.com/Nicolas-Doneda
