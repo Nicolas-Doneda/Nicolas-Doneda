@@ -19,19 +19,6 @@
 
 ---
 
-### 📊 Performance & Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nicolas-Doneda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Doneda&layout=compact&langs_count=7&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Nicolas-Doneda&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### 📌 Diretrizes de Desenvolvimento
 - 🏗️ **Arquitetura & Organização:** Código limpo e modular como prioridade.
 - 🔍 **Deep Dive:** Foco em entender a base técnica por trás das ferramentas.
