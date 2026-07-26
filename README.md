@@ -42,9 +42,9 @@ Focado em construir aplicações web e mobile modernas, performáticas e bem est
 `![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)`
 
 **DevOps & Infra**  
-`![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)`
-`![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)`
-`![PHPUnit](https://img.shields.io/badge/-PHPUnit-3776AB?style=flat-square&logo=php&logoColor=white)`
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![PHPUnit](https://img.shields.io/badge/-PHPUnit-3776AB?style=flat-square&logo=php&logoColor=white)
 
 <br />
 
