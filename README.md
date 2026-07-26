@@ -1,31 +1,55 @@
-# 👋 Olá! Eu sou Nicolas Doneda
-
-**Software Developer** focado na construção de aplicações escaláveis e bem estruturadas.  
-🎓 Graduando em **Engenharia de Software**, unindo rigor acadêmico com a prática de mercado.  
-🚀 Especialista em transformar lógica complexa em soluções eficientes de **Frontend, Backend e Mobile**.
-
----
-
-### 🧠 Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-</p>
-
----
-
-### 📌 Diretrizes de Desenvolvimento
-- 🏗️ **Arquitetura & Organização:** Código limpo e modular como prioridade.
-- 🔍 **Deep Dive:** Foco em entender a base técnica por trás das ferramentas.
-- 🛠️ **Hands-on:** Aprendizado contínuo através da resolução de problemas reais.
-
----
-
-### 📫 Conecte-se comigo
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nicolas-Doneda)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-doneda-6b1aa9348/)
+<div align="center">                                                                                                                                                                                                
+                                                                                                                                                                                                                        
+    # 👋 Olá, eu sou o **Nicolas Doneda**                                                                                                                                                                               
+                                                                                                                                                                                                                        
+    ### **Software Developer** | Graduando em **Engenharia de Software**                                                                                                                                                
+                                                                                                                                                                                                                        
+    Especialista na construção de aplicações escaláveis, modulares e eficientes no **Frontend, Backend e Mobile**.                                                                                                      
+                                                                                                                                                                                                                        
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-doneda-6b1aa9348/)                                                
+                                                                                                                                                                                                                        
+    ---                                                                                                                                                                                                                 
+                                                                                                                                                                                                                        
+    </div>                                                                                                                                                                                                              
+                                                                                                                                                                                                                        
+    ### 🧠 Tech Stack                                                                                                                                                                                                   
+                                                                                                                                                                                                                        
+    #### 💻 Linguagens & Web Core                                                                                                                                                                                       
+    <p align="left">                                                                                                                                                                                                    
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />                                                                                                            
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />                                                                                                              
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />                                                                                                  
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />                                                                                                                
+      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />                                                                                                           
+    </p>                                                                                                                                                                                                                
+                                                                                                                                                                                                                        
+    #### ⚙️ Frameworks & Mobile                                                                                                                                                                                         
+    <p align="left">                                                                                                                                                                                                    
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />                                                                                                        
+      <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />                                                                                                     
+    </p>                                                                                                                                                                                                                
+                                                                                                                                                                                                                        
+    ---                                                                                                                                                                                                                 
+                                                                                                                                                                                                                        
+    ### 📌 Diretrizes de Desenvolvimento                                                                                                                                                                                
+    - 🏗️ **Arquitetura & Organização:** Código limpo, testável e modular como prioridade.                                                                                                                               
+    - 🔍 **Engenharia de Base:** Foco em entender os fundamentos e a lógica por trás de cada ferramenta.                                                                                                                
+    - 🛠️ **Prática & Resolução de Problemas:** Aprendizado contínuo através da construção de soluções reais.                                                                                                            
+                                                                                                                                                                                                                        
+    ---                                                                                                                                                                                                                 
+                                                                                                                                                                                                                        
+    <div align="center">                                                                                                                                                                                                
+                                                                                                                                                                                                                        
+    ### 📊 Estatísticas no GitHub                                                                                                                                                                                       
+                                                                                                                                                                                                                        
+    <p align="center">                                                                                                                                                                                                  
+      <img src="https://github-readme-stats.vercel.app/api?username=Nicolas-Doneda&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Estatísticas do GitHub" height="150"/>                          
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Doneda&layout=compact&theme=dark&hide_border=true" alt="Linguagens mais utilizadas" height="150"/>                               
+    </p>                                                                                                                                                                                                                
+                                                                                                                                                                                                                        
+    ---                                                                                                                                                                                                                 
+                                                                                                                                                                                                                        
+    ### 📫 Conecte-se comigo                                                                                                                                                                                            
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-doneda-6b1aa9348/)                                                
+                                                                                                                                                                                                                        
+    </div>                        
